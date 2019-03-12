@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bonjour à tous
 
 You can use the [editor on GitHub](https://github.com/vincwebdev/Page-web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
