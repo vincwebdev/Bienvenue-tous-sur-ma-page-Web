@@ -2,7 +2,7 @@
 
 Après l'obtention d'un Bacalauréat STI (Sicences des Techniques Industriels), J'ai poursuivi mes études vers un BTS Génie Optique Instrumentale.
 J'ai ensuite pris la direction de la région parisienne pour me faire un première expérience, j'ai décroché mon premier emploi en tant que Technicien de maintenance en endoscopie qui j'ai occupé pendant deux ans et demi.
-J'ai ensuite eu l'auportunité d'intégrer une société en plein développement qui m'a proposé
+J'ai ensuite eu l'auportunité d'intégrer une société en plein développement qui m'a proposé un poste de technicien validation qui consiste à qualifier des équipements dans les établissements de santé et dans les laboratoires pharmaceutiques.
 
 
 
