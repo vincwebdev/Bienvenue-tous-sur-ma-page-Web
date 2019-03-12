@@ -1,6 +1,17 @@
 ## Bonjour à tous,
 
-You can use the [editor on GitHub](https://github.com/vincwebdev/Page-web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Après l'obtention d'un Bacalauréat STI (Sicences des Techniques Industriels), J'ai poursuivi mes études vers un BTS Génie Optique Instrumentale.
+J'ai ensuite pris la direction de la région parisienne pour me faire un première expérience, j'ai décroché mon premier emploi en tant que Technicien de maintenance en endoscopie qui j'ai occupé pendant deux ans et demi.
+J'ai ensuite eu l'auportunité d'intégrer une société en plein développement qui m'a proposé
+
+
+
+Actuellement en poste au sein de la société CMI – Cleanroom Management International depuis 12 ans, j’ai débuté par un poste de technicien validation qui consiste à contrôler des Autoclaves, des laveurs-désinfecteurs, des enceintes thermostatiques et des salles blanches selon des normes afin de vérifier leur conformité.
+J’ai ensuite évolué vers un poste de technicien métrologie que j’occupe depuis 5 ans. Mes missions sont de vérifier et de régler des instruments de mesures, comme des compteurs de particules, des capteurs de température, de pression et d’humidité.
+
+Je suis diplomé d'un BTS Génie Optique Instrumentale
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
