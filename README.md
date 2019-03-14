@@ -1,7 +1,7 @@
 
 <style>
  h1 {
- color: blue;
+ color: skyblue;
  text-decoration: underline;
  }
  </style>
