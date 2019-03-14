@@ -1,8 +1,12 @@
 <style>
+ body {
+ font-family:verdana, sans-serif;
+ }
  h1 {
  color: royalBlue;
  text-decoration: underline;
  font-style: italic;
+ 
  }
  </style>
 <h1>Qui suis-je ?</h1>
