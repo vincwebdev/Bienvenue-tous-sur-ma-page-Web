@@ -3,7 +3,7 @@
  font-family:verdana, sans-serif;
  }
  h1 {
- color: red;
+ color: Red;
  text-decoration: underline;
  font-style: italic;
  font-size: 120%;
