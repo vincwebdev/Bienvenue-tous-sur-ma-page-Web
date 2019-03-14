@@ -1,5 +1,4 @@
-<style>
-background-color: red
+body {background-color: red;}
 </style>
 <style>
  h1 {
