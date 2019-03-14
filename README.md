@@ -4,15 +4,14 @@ Après l'obtention d'un Bacalauréat STI (Sicences des Techniques Industriels), 
 
 J'ai ensuite pris la direction de la région parisienne pour me faire un première expérience, j'ai décroché mon premier emploi en tant que Technicien de maintenance en endoscopie qui j'ai occupé pendant deux ans et demi au sein de la société Olympus France.
 
-J'ai ensuite eu l'auportunité d'intégrer la société  CMI - CLEANROOM MANAGEMENT INTERNATIONAL qui m'a proposé un poste de technicien validation qui consiste à qualifier des équipements dans les établissements de santé et dans les laboratoires pharmaceutiques.
+J'ai ensuite eu l'auportunité d'intégrer la société  CMI - Cleanroom Management International qui m'a proposé un poste de technicien validation qui consiste à qualifier des équipements dans les établissements de santé et dans les laboratoires pharmaceutiques.
  J’ai ensuite évolué vers un poste de technicien métrologie que j’occupe depuis 5 ans. Mes missions sont de vérifier et de régler des instruments de mesures, comme des compteurs de particules, des capteurs de température, de pression et d’humidité.
  
 ## Quels sont mes centres d'intérêts ?
 
-Mes activités extra professionnelles sont principalement le tennis que j'exerce dans un club, le bricolage, quelques montages vidéos que je réalise à l'occasion d'évenemenent familiaux
+Mes activités extra professionnelles sont principalement le tennis que j'exerce dans un club, le bricolage, quelques montages vidéos que je réalise à l'occasion d'évenemenent familiaux.
 [link](https://www.youtube.com/watch?v=30M3vJBBlgI)
-
-
+[image]
 
 
 ### Markdown
