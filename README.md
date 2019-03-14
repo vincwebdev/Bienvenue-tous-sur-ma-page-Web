@@ -7,6 +7,7 @@
  text-decoration: underline;
  font-style: italic;
  font-size: 150%;
+ text-tranform: uppercase;
  }
  </style>
 <h1>Qui suis-je ?</h1>
