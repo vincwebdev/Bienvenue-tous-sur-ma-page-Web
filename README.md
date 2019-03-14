@@ -6,7 +6,7 @@
  color: royalBlue;
  text-decoration: underline;
  font-style: italic;
- font-size: 1.2em;
+ font-size: 200%;
  }
  </style>
 <h1>Qui suis-je ?</h1>
