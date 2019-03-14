@@ -6,7 +6,7 @@
  color: royalBlue;
  text-decoration: underline;
  font-style: italic;
- font-size: 150%;
+ font-size: 120%;
  text-transform: uppercase;
  }
  </style>
