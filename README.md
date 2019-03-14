@@ -3,7 +3,7 @@
  h1 {
  color: skyblue;
  text-decoration: underline;
- front-style: italic;
+ font-style: italic;
  }
  </style>
 <h1>Qui suis-je ?</h1>
