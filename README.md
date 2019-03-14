@@ -1,7 +1,6 @@
-body {background-color: red;}
 <style>
  h1 {
- color: skyblue;
+ color: royalBlue;
  text-decoration: underline;
  font-style: italic;
  }
