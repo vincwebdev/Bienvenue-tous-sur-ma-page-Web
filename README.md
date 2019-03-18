@@ -4,7 +4,7 @@
  color: RoyalBlue;
  text-decoration: underline;
  font-style: normal;
- font-size: 10%;
+ font-size: 10px;
  text-transform: uppercase;
  }
  </style>
