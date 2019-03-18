@@ -22,9 +22,9 @@
 
 
 <h2>Après l'obtention d'un Bacalauréat STI (Sicences des Techniques Industriels), J'ai poursuivi mes études vers un BTS Génie Optique Instrumentale.<br/>
-J'ai ensuite pris la direction de la région parisienne pour me faire un première expérience, j'ai décroché mon premier emploi en tant que Technicien de maintenance en endoscopie qui j'ai occupé pendant deux ans et demi au sein de la société Olympus France.
+J'ai ensuite pris la direction de la région parisienne pour me faire un première expérience, j'ai décroché mon premier emploi en tant que Technicien de maintenance en endoscopie qui j'ai occupé pendant deux ans et demi au sein de la société Olympus France.<br/>
 
-J'ai ensuite eu l'auportunité d'intégrer la société  CMI - Cleanroom Management International qui m'a proposé un poste de technicien validation qui consiste à qualifier des équipements dans les établissements de santé et dans les laboratoires pharmaceutiques.
+J'ai ensuite eu l'auportunité d'intégrer la société  CMI - Cleanroom Management International qui m'a proposé un poste de technicien validation qui consiste à qualifier des équipements dans les établissements de santé et dans les laboratoires pharmaceutiques.<br/>
  J’ai ensuite évolué vers un poste de technicien métrologie que j’occupe depuis 5 ans. Mes missions sont de vérifier et de régler des instruments de mesures, comme des compteurs de particules, des capteurs de température, de pression et d’humidité.</h2>
  
 
@@ -34,7 +34,7 @@ J'ai ensuite eu l'auportunité d'intégrer la société  CMI - Cleanroom Managem
  color: RoyalBlue;
  text-decoration: underline;
  font-style: normal;
- font-size: 160%;
+ font-size: 10px;
  text-transform: uppercase;
  }
 </style>
