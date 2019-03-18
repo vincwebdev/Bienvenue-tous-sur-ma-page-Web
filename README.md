@@ -14,6 +14,7 @@
  h2 {
  text-align: justify;
  color: White;
+ font-weight: normal;
  font-family: verdana;
  font-style: italic;
  text-transform: none;
