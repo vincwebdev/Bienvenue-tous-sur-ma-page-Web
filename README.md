@@ -4,11 +4,22 @@
  color: RoyalBlue;
  text-decoration: underline;
  font-style: normal;
- font-size: 120%;
+ font-size: 10px;
  text-transform: uppercase;
  }
  </style>
 <h1>Qui suis-je ?</h1>
+
+ <style>
+ h3 {
+ font-family: verdana;
+ color: RoyalBlue;
+ text-decoration: underline;
+ font-style: normal;
+ font-size: 120%;
+ text-transform: uppercase;
+ }
+ </style>
 
 
 
@@ -20,16 +31,7 @@ J'ai ensuite eu l'auportunité d'intégrer la société  CMI - Cleanroom Managem
  J’ai ensuite évolué vers un poste de technicien métrologie que j’occupe depuis 5 ans. Mes missions sont de vérifier et de régler des instruments de mesures, comme des compteurs de particules, des capteurs de température, de pression et d’humidité.</h2>
  
 
-<style>
- h3 {
- font-family: verdana;
- color: RoyalBlue;
- text-decoration: underline;
- font-style: normal;
- font-size: 10px;
- text-transform: uppercase;
- }
-</style>
+
 <h3>Quels sont mes centres d'intérêts ?</h3>
 
 <style>
