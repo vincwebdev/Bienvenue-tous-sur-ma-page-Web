@@ -1,12 +1,13 @@
 <style>
  body {
  font-family:verdana;
+ font-size: 50%;
  }
  h1 {
  color: RoyalBlue;
  text-decoration: underline;
  font-style: normal;
- font-size: 200%;
+ font-size: 100%;
  text-transform: uppercase;
  }
  </style>
@@ -16,7 +17,7 @@
 
 <style>
  body {
- font-family:verdana, sans-serif;
+ font-family:verdana;
  }
  h2 {
  color: White;
