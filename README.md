@@ -14,7 +14,7 @@
 <style>
  h2, h4 {
  text-align: justify;
- color: White;
+ color: Red;
  font-family: verdana;
  font-style: italic;
  font-size: 30px
