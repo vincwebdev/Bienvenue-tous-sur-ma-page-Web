@@ -52,7 +52,7 @@ J'ai ensuite eu l'auportunité d'intégrer la société  CMI - Cleanroom Managem
  color: White;
  font-family: verdana;
  font-style: italic;
- font-size: 10px
+ font-size: 30px
  text-transform: none;
  }
 </style>
