@@ -15,13 +15,13 @@
  h2 {
  text-align: justify;
  color: White;
- font-weight: normal;
  font-family: verdana;
- font-size: 10px;
  font-style: italic;
+ font-size: 30px
  text-transform: none;
  }
 </style>
+
 
 
 
