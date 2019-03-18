@@ -1,7 +1,7 @@
 <style>
  h1 {
  font-family: verdana;
- color: Blue;
+ color: RoyalBlue;
  text-decoration: underline;
  font-style: normal;
  font-size: 100%;
