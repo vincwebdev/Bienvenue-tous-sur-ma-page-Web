@@ -15,14 +15,16 @@
 
 
 <style>
- body {
+ body
+ {
  font-family:verdana;
  }
- h2 {
+ h2
+ {
  color: White;
 
  font-style: italic;
- font-size: small;
+ font-size: 1em;
  text-transform: none;
  }
  </style>
