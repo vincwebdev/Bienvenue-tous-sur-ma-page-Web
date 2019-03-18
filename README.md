@@ -5,7 +5,7 @@
  h1 {
  color: RoyalBlue;
  text-decoration: underline;
- font-style: italic;
+ font-style: normal;
  font-size: 200%;
  text-transform: uppercase;
  }
