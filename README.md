@@ -1,3 +1,4 @@
+ <style>
  h1 {
  font-family: verdana;
  color: RoyalBlue;
@@ -6,6 +7,7 @@
  font-size: 120%;
  text-transform: uppercase;
  }
+ </style>
 <h1>Qui suis-je ?</h1>
 
 
