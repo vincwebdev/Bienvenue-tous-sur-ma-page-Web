@@ -1,4 +1,10 @@
 <style>
+ 
+ h2 {
+	font-size: small;
+	}
+ 
+ 
  h1 {
  font-family: verdana;
  color: RoyalBlue;
