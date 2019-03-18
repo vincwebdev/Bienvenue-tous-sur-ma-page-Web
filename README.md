@@ -1,12 +1,8 @@
  <style>
- h1 {
- font-family: verdana;
- color: RoyalBlue;
- text-decoration: underline;
- font-style: normal;
- font-size: 10px;
- text-transform: uppercase;
- }
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
  </style>
 <h1>Qui suis-je ?</h1>
 
