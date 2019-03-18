@@ -1,7 +1,7 @@
  <style>
 h1 {
-  font-size: 60px;
-  text-align: center;
+  font-size: 25px;
+  text-align: left;
 }
  </style>
 <h1>Qui suis-je ?</h1>
