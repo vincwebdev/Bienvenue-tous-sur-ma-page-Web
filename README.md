@@ -4,7 +4,7 @@
  color: RoyalBlue;
  text-decoration: underline;
  font-style: normal;
- font-size: 120%;
+ font-size: 20%;
  text-transform: uppercase;
  }
 </style>
@@ -17,6 +17,7 @@
  color: White;
  font-weight: normal;
  font-family: verdana;
+ font-size: 10px;
  font-style: italic;
  text-transform: none;
  }
