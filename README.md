@@ -14,9 +14,9 @@
 <style>
  h2 {
  color: White;
- font-family: verdana
+ font-family: verdana;
  font-style: italic;
- font-size: 1em;
+ font-size: 200%;
  text-transform: none;
  }
  </style>
