@@ -6,7 +6,7 @@
  color: RoyalBlue;
  text-decoration: underline;
  font-style: italic;
- font-size: 100%;
+ font-size: 200%;
  text-transform: uppercase;
  }
  </style>
@@ -19,7 +19,7 @@
  font-family:verdana, sans-serif;
  }
  h2 {
- color: Red;
+ color: White;
 
  font-style: italic;
  font-size: smaller;
