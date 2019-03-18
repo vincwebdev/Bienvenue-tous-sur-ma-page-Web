@@ -35,7 +35,7 @@ J'ai ensuite eu l'auportunité d'intégrer la société  CMI - Cleanroom Managem
  color: RoyalBlue;
  text-decoration: underline;
  font-style: normal;
- font-size: 120%;
+ font-size: 160%;
  text-transform: uppercase;
  }
 </style>
@@ -52,6 +52,8 @@ J'ai ensuite eu l'auportunité d'intégrer la société  CMI - Cleanroom Managem
 </style>
 
 
-<h4>Mes activités extra professionnelles sont principalement le tennis que j'exerce dans un club, le bricolage, quelques montages vidéos que je réalise à l'occasion d'évenemenent familiaux.<h4>
+<h4>Mes activités extra professionnelles sont principalement le tennis que j'exerce dans un club, le bricolage, 
+ 
+ quelques montages vidéos que je réalise à l'occasion d'évenemenent familiaux.<h4>
 
 
