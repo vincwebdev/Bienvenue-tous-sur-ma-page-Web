@@ -29,10 +29,29 @@ J'ai ensuite eu l'auportunité d'intégrer la société  CMI - Cleanroom Managem
  J’ai ensuite évolué vers un poste de technicien métrologie que j’occupe depuis 5 ans. Mes missions sont de vérifier et de régler des instruments de mesures, comme des compteurs de particules, des capteurs de température, de pression et d’humidité.</h2>
  
 
-## Quels sont mes centres d'intérêts ?
+<style>
+ h3 {
+ font-family: verdana;
+ color: RoyalBlue;
+ text-decoration: underline;
+ font-style: normal;
+ font-size: 120%;
+ text-transform: uppercase;
+ }
+</style>
+<h3>Quels sont mes centres d'intérêts ?</h3>
 
-Mes activités extra professionnelles sont principalement le tennis que j'exerce dans un club, le bricolage, quelques montages vidéos que je réalise à l'occasion d'évenemenent familiaux.
-[link](https://www.youtube.com/watch?v=30M3vJBBlgI)
-[image]
+<style>
+ h4 {
+ text-align: justify;
+ color: White;
+ font-family: verdana;
+ font-style: italic;
+ text-transform: none;
+ }
+</style>
+
+
+<h4>Mes activités extra professionnelles sont principalement le tennis que j'exerce dans un club, le bricolage, quelques montages vidéos que je réalise à l'occasion d'évenemenent familiaux.<h4>
 
 
