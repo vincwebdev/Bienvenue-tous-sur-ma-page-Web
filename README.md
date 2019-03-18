@@ -17,7 +17,6 @@ type="text/css">
  color: Red;
  font-family: verdana;
  font-style: italic;
- font-size: 200%;
  text-transform: none;
  }
 </style>
