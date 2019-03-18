@@ -22,7 +22,7 @@
  color: White;
 
  font-style: italic;
- font-size: smaller;
+ font-size: 12px;
  text-transform: none;
  }
  </style>
