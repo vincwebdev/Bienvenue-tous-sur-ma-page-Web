@@ -1,11 +1,26 @@
- <style>
-h1 {
-  font-size: 25px;
-  text-align: left;
-}
- </style>
+<style>
+ h1 {
+ font-family: verdana;
+ color: RoyalBlue;
+ text-decoration: underline;
+ font-style: normal;
+ font-size: 120%;
+ text-transform: uppercase;
+ }
+</style>
+
 <h1>Qui suis-je ?</h1>
 
+<style>
+ h2 {
+ text-align: justify;
+ color: White;
+ font-weight: normal;
+ font-family: verdana;
+ font-style: italic;
+ text-transform: none;
+ }
+</style>
 
 
 
