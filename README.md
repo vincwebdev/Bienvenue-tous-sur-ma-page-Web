@@ -1,7 +1,6 @@
 <style>
  body {
  font-family:verdana;
- font-size: smaller;
  }
  h1 {
  color: RoyalBlue;
