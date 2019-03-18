@@ -19,7 +19,7 @@
  font-family:verdana, sans-serif;
  }
  h2 {
- color: White;
+ color: Red;
 
  font-style: italic;
  font-size: smaller;
