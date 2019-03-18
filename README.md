@@ -11,7 +11,7 @@
 <h1>Qui suis-je ?</h1>
 
 
-
+<style>
  h2 {
  color: White;
  font-family: verdana
@@ -19,7 +19,7 @@
  font-size: 1em;
  text-transform: none;
  }
- 
+ </style>
 
 
 <h2>Après l'obtention d'un Bacalauréat STI (Sicences des Techniques Industriels), J'ai poursuivi mes études vers un BTS Génie Optique Instrumentale.
