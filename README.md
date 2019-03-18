@@ -15,7 +15,7 @@
 
 <style>
  h2 {
- color: white;
+ color: red;
  font-style: italic;
  font-size: 80%;
  text-transform: none;
