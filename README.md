@@ -1,33 +1,25 @@
-<style>
- body {
- font-family:verdana;
- }
+
  h1 {
+ font-family: verdana;
  color: RoyalBlue;
  text-decoration: underline;
  font-style: normal;
  font-size: 100%;
  text-transform: uppercase;
  }
- </style>
+ 
 <h1>Qui suis-je ?</h1>
 
 
 
-<style>
- body
- {
- font-family:verdana;
- }
- h2
- {
+ h2 {
  color: White;
-
+ font-family: verdana
  font-style: italic;
  font-size: 1em;
  text-transform: none;
  }
- </style>
+ 
 
 
 <h2>Après l'obtention d'un Bacalauréat STI (Sicences des Techniques Industriels), J'ai poursuivi mes études vers un BTS Génie Optique Instrumentale.
