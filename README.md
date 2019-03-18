@@ -14,9 +14,6 @@
 
 
 <style>
- body {
- font-family:verdana, sans-serif;
- }
  h2 {
  color: white;
  font-style: italic;
