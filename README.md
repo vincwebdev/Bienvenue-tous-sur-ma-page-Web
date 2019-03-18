@@ -13,7 +13,7 @@
 <style>
  h2 {
  text-align: justify;
- color: Red;
+ color: White;
  font-family: verdana;
  font-style: italic;
  text-transform: none;
