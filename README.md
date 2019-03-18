@@ -21,8 +21,7 @@
 </style>
 
 
-<h2>Après l'obtention d'un Bacalauréat STI (Sicences des Techniques Industriels), J'ai poursuivi mes études vers un BTS Génie Optique Instrumentale.
-
+<h2>Après l'obtention d'un Bacalauréat STI (Sicences des Techniques Industriels), J'ai poursuivi mes études vers un BTS Génie Optique Instrumentale.<br/>
 J'ai ensuite pris la direction de la région parisienne pour me faire un première expérience, j'ai décroché mon premier emploi en tant que Technicien de maintenance en endoscopie qui j'ai occupé pendant deux ans et demi au sein de la société Olympus France.
 
 J'ai ensuite eu l'auportunité d'intégrer la société  CMI - Cleanroom Management International qui m'a proposé un poste de technicien validation qui consiste à qualifier des équipements dans les établissements de santé et dans les laboratoires pharmaceutiques.
