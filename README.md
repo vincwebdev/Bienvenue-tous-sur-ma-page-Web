@@ -1,6 +1,9 @@
-
+<!DOCTYPE html>
 <html>
- <body>
+ <head>
+  <meta charset="utf-8">
+  <title>Bienvenue sur ma page Web</title>
+ </head> 
 
 
 <style>
