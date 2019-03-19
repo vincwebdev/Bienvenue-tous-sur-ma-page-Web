@@ -1,7 +1,7 @@
 
-<title>
- ah ah ah
-</title>
+<html>
+ <body>
+
 
 <style>
  h1, h3 {
@@ -45,5 +45,5 @@ J'ai ensuite eu l'auportunité d'intégrer la société  CMI - Cleanroom Managem
 <h4>Mes activités extra professionnelles sont principalement le tennis que j'exerce dans un club, le bricolage, 
  
  quelques montages vidéos que je réalise à l'occasion d'évenemenent familiaux.</h4>
-
-
+ </body>
+</html>
